@@ -26,26 +26,26 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 ### What I learned
 
-1. I learnt how to use the useRewducer hook to manage state in my app
-2. Leant how to create a netlify function which i used to serve  the react questions.
+1. I learned how to use the useRewducer hook to manage the state in my app
+2. I learned how to create a Netlify function to serve  the react questions.
 
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
 
 ### Continued development
 
-The goal in future is 
-1. Get my questions from an external api instead of a json file
-2. To specify ther diffultiers of each question asnd enabler the user to choose questions based on diffuclty level
-3. Enable the user to sign up and sign in to solve the questions. 
+The goal in the future is 
+1. Get my questions from an external API instead of a JSON file
+2. To specify the difficulties of each question and enabler the user to choose questions based on difficulty level
+3. Enable the user to sign in and solve the questions. 
 ### Useful resources
 
-- [React Docs](https://www.react.com) - This helped me to uderstand hooks and the useReducer Hook.I'd recommend it to anyone still learning this concept.
+- [React Docs](https://www.react.com) - This helped me to understand hooks and the useReducer Hook. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.mcwachira.com)
-- Twitter - [@yourusername](https://www.twitter.com/mcwachira)
+- Website - [mcwachira](https://www.mcwachira.com)
+- Twitter - [mc_wachira](https://www.twitter.com/mc_wachira)
 
