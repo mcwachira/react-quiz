@@ -130,7 +130,7 @@ function App() {
 
                 console.log(res)
                 const data = await res.json()
-                console.log(data)
+                console.log('hello', data)
 
                 dispatch({type: 'dataRecieved', payload:data})
 

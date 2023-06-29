@@ -3,7 +3,7 @@ exports.handler =  async(event, context) => {
 
     const data = require('../../data/questions.json')
     const response = JSON.stringify(data)
-    console.log(response)
+
 
     return {
         statusCode:200,
