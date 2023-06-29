@@ -6,13 +6,13 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 ### Screenshot
 
-![](./react-quiz.gif)
+![](./screenshot/react-quiz.gif)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github]([https://your-solution-url.com](https://github.com/mcwachira/react-quiz))
 - Live Site URL: [React Quiz](https://react-questions-app.netlify.app/)
 
 ## My process
