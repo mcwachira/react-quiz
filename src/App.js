@@ -130,13 +130,14 @@ function App() {
 
                 console.log(res)
                 const data = await res.json()
+                console.log(data)
 
                 dispatch({type: 'dataRecieved', payload:data})
 
-            } catch (error) {
+            } catch (err) {
 
                 dispatch({type:'dataFailed'})
-                console.log(error)
+                console.log(err.message)
             }
         }
 

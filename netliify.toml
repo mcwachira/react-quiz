@@ -5,10 +5,5 @@ directory='_netlify/functions'
 [[redirects]]
 from = '/questions'
 to ='/.netlify/functions/questions'
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
+status = 200
+force = true
