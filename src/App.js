@@ -126,9 +126,10 @@ function App() {
 
             try {
 
-                const res = await fetch('https://react-questions-app.netlify.app/api/questions')
+  const res = await fetch('https://react-questions-app.netlify.app/api/questions')
 
-                // console.log(res)
+                // const res = await fetch('http://localhost:8000/questions')
+               console.log(res)
                 const {questions}= await res.json()
 
                 //console.log(questions)

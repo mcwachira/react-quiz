@@ -6,14 +6,14 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./react-quiz.gif)
 
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [React Quiz](https://react-questions-app.netlify.app/)
 
 ## My process
 
@@ -26,8 +26,8 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+1. I learnt how to use the useRewducer hook to manage state in my app
+2. Leant how to create a netlify function which i used to serve  the react questions.
 
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
@@ -47,5 +47,5 @@ The goal in future is
 ## Author
 
 - Website - [Add your name here](https://www.mcwachira.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/mcwachira)
 

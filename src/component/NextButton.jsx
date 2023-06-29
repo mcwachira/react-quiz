@@ -1,7 +1,7 @@
 import React from 'react'
 
 const NextButton = ({dispatch, answer, index ,numQuestions}) => {
-    console.log(numQuestions , index)
+    // console.log(numQuestions , index)
     if(answer === null) return null
 
     if(index < numQuestions-1)
