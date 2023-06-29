@@ -1,5 +1,5 @@
 [functions]
-directory='_netlify/functions'
+directory='netlify/functions'
 
 
 [[redirects]]
