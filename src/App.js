@@ -128,11 +128,12 @@ function App() {
 
                 const res = await fetch('https://react-questions-app.netlify.app/api/questions')
 
-                console.log(res)
-                const data = await res.json()
-                console.log('hello', data)
+                // console.log(res)
+                const {questions}= await res.json()
 
-                dispatch({type: 'dataRecieved', payload:data})
+                //console.log(questions)
+
+                dispatch({type: 'dataRecieved', payload:questions})
 
             } catch (err) {
 
