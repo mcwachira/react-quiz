@@ -7,7 +7,7 @@ exports.handler =  async(event, context) => {
     return {
         statusCode:200,
         headers:{
-            'Access-Control-Allow-0rigin':'*',
+            'Access-Control-Allow-Origin':'*',
             'Content-Type':'application/json; charset=utf-8'
         },
 
