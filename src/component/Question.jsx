@@ -2,7 +2,7 @@ import React from 'react'
 import Options from "./Options";
 
 const Question = ({question , dispatch, answer, numQuestions}) => {
-    console.log(question)
+    //console.log(question)
     return (
         <div>
 
