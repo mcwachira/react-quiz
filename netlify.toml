@@ -3,7 +3,7 @@ functions='netlify/functions'
 
 
 [[redirects]]
-from = '/questions'
+from = '/api/questions'
 to ='/.netlify/functions/questions'
 status = 200
 force = true
