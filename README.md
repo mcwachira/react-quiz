@@ -6,13 +6,13 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 ### Screenshot
 
-![](./react-quiz.gif)
+![](.screenshot//react-quiz.gif)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/mcwachira/react-quiz)
 - Live Site URL: [React Quiz](https://react-questions-app.netlify.app/)
 
 ## My process
@@ -26,7 +26,7 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 ### What I learned
 
-1. I learnt how to use the useRewducer hook to manage state in my app
+1. I learnt how to use the useReducer hook to manage state in my app
 2. Leant how to create a netlify function which i used to serve  the react questions.
 
 
@@ -36,7 +36,7 @@ This is a simnple react application to showcase the power of useReducer hook whe
 
 The goal in future is 
 1. Get my questions from an external api instead of a json file
-2. To specify ther diffultiers of each question asnd enabler the user to choose questions based on diffuclty level
+2. To specify ther diffultiers of each question asnd enable the user to choose questions based on diffuclty level
 3. Enable the user to sign up and sign in to solve the questions. 
 ### Useful resources
 
