@@ -1,6 +1,6 @@
 # React Quiz
 
-This is a simnple react application to showcase the power of useReducer hook when it comes to managing of state
+This is a simple react application to showcase the power of the useReducer hook when it comes to managing of state
 
 
 
